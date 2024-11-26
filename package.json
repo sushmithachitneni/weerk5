@@ -1,5 +1,5 @@
 {
-  "name": "my-nodejs-app",
+ "name": "my-nodejs-app",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.1"
+  
   }
 }
